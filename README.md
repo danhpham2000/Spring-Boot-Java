@@ -1,4 +1,3 @@
 # Spring-Boot-Java
-
 # Description:
-First Angular Application with simple data fetching, and form submission
+First Spring Boot Framework with Java with simple REST APIs through CRUD Operations.
